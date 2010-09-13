@@ -7,7 +7,7 @@ Author URI: http://111waystomakemoney.com/
 Tags: post, posts, copy, protect, right, click, disable, copyprotect, Google, SEO, page, plugin, access, content, javascript, security, protector, widget, admin, sidebar, comments, images, google, links, twitter, rss
 Requires at least: 2
 Tested up to: 3.0
-Stable tag: 1.1
+Stable tag: 1.2
 
 Protect your valuable blog content as well as images from getting copied.
 

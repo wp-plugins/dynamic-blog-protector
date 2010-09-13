@@ -3,7 +3,7 @@
 Plugin Name: Dynamic Blog Protector
 Plugin URI: http://111waystomakemoney.com/dynamic-blog-protector/
 Description: Protects Your Valuable Blog Content As Well As Images From Being Copied.
-Version: 1.1
+Version: 1.2
 Author: Chetan
 Author URI: http://111waystomakemoney.com/
 */
