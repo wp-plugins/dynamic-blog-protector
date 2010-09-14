@@ -3,7 +3,7 @@
 Plugin Name: Dynamic Blog Protector
 Plugin URI: http://111waystomakemoney.com/dynamic-blog-protector/
 Description: Protects Your Valuable Blog Content As Well As Images From Being Copied.
-Version: 1.2
+Version: 1.3
 Author: Chetan
 Author URI: http://111waystomakemoney.com/
 */
@@ -26,7 +26,7 @@ function PMB_Footer()
 disableSelection(document.body)
 </script>
 <div style="text-align: center">
-<small>Content Protected Using <a href="http://111waystomakemoney.com/dynamic-blog-protector/" target="_blank">Dynamic Blog Protector</a> By: <a href="http://111waystomakemoney.com" target="_blank">How To Make Money</a>.</small></div>
+<small>Content Protected Using <a href="http://111waystomakemoney.com/dynamic-blog-protector/" target="_blank">Dynamic Blog Protector</a> By: <a href="http://111waystomakemoney.com" target="_blank">Make Money</a>.</small></div>
 <?php
 }
 
